@@ -9,4 +9,4 @@
 
 ## Week 1
 ***
-[課程簡介](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.g62828ec278_0_234)
+[課程簡介](https://docs.google.com/presentation/d/e/2PACX-1vTAQ0ns9cSIGCE4Ypfysfb0hEMVPQZmEzAgJWAyAzpU3xwQTzC5hwuVR2O4SXUHOIdjfWfe7qQTyINl/pub?start=false&loop=false&delayms=3000&slide=id.g80f1c32468_0_6)
