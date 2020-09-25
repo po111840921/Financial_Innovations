@@ -10,3 +10,7 @@
 ## Week 1
 ***
 [課程簡介](https://docs.google.com/presentation/d/e/2PACX-1vTAQ0ns9cSIGCE4Ypfysfb0hEMVPQZmEzAgJWAyAzpU3xwQTzC5hwuVR2O4SXUHOIdjfWfe7qQTyINl/pub?start=false&loop=false&delayms=3000&slide=id.g80f1c32468_0_6)
+
+## Week 2
+***
+[9/24壽險演講心得]()
