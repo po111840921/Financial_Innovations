@@ -13,4 +13,4 @@
 
 ## Week 2
 ***
-[9/24壽險演講心得]()
+[9/24壽險演講心得](https://github.com/po111840921/Financial_Innovations/blob/master/924%E5%A3%BD%E9%9A%AA%E6%BC%94%E8%AC%9B%E5%BF%83%E5%BE%97.pdf)
