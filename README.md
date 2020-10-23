@@ -39,6 +39,7 @@
 
 主講人：杜佩璇 資深協理/童恩霖 副總經理
 
-[壽險經營管理實務研討_1022演講心得]
-()
+[壽險經營管理實務研討_1022演講心得](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%A3%BD%E9%9A%AA%E7%B6%93%E7%87%9F%E7%AE%A1%E7%90%86%E5%AF%A6%E5%8B%99%E7%A0%94%E8%A8%8E_%E6%BC%94%E8%AC%9B%E5%BF%83%E5%BE%97/%E5%A3%BD%E9%9A%AA%E7%B6%93%E7%87%9F%E7%AE%A1%E7%90%86%E5%AF%A6%E5%8B%99%E7%A0%94%E8%A8%8E_1022%E6%BC%94%E8%AC%9B%E5%BF%83%E5%BE%97.pdf)
+
+
 
