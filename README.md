@@ -50,3 +50,8 @@
 ***
 
 [Quantopian](https://docs.google.com/presentation/d/e/2PACX-1vSsVHyOz-PNWlKyg8J1Ayyv6T2D_6UX-KiNWuls_mzlwnOsAIVcxGAj6YqXIMlOjS-6sLYenGEwxc19/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
+
+## Week 11
+***
+
+[HW1](https://docs.google.com/presentation/d/e/2PACX-1vSsVHyOz-PNWlKyg8J1Ayyv6T2D_6UX-KiNWuls_mzlwnOsAIVcxGAj6YqXIMlOjS-6sLYenGEwxc19/pub?start=false&loop=false&delayms=3000&slide=id.g9d4832b8a0_0_56)
