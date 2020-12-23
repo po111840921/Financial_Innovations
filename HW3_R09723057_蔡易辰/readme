@@ -1,1 +1,8 @@
+HW3: use LSTM and CNN model to classify customized candlestick pattern (at least 3 classes)
 
+* 此處使用本機連結，使用請更改連結
+
+- 
+[Keras:基于Python的深度学习库](https://keras-cn.readthedocs.io/en/latest/)
+- 
+[Keras資料庫](https://keras.io/)
