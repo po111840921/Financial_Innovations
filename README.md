@@ -6,6 +6,11 @@
 
 授課老師：蔡芸琤老師
 
+## 個人專題報告：Python金融視覺化----圖像辨識
+***
+影片連結：https://www.youtube.com/watch?fbclid=IwAR1ypo-jzthANxhnwN4w2s3mjHJY3LFZp6SwqCKj3OUZW3kaE-2VxnGWiRI&v=MrM8e8lCPwU&feature=youtu.be
+[報告ppt](https://docs.google.com/presentation/d/e/2PACX-1vTAQ0ns9cSIGCE4Ypfysfb0hEMVPQZmEzAgJWAyAzpU3xwQTzC5hwuVR2O4SXUHOIdjfWfe7qQTyINl/pub?start=false&loop=false&delayms=3000&slide=id.g80f1c32468_0_6)
+
 
 ## Week 1
 ***
