@@ -13,7 +13,7 @@
   
     個人專題報告：[檔案](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0.pdf)
     
-    程式碼：[檔案](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0.pdf)
+    程式碼：[檔案](https://github.com/po111840921/Financial_Innovations/tree/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0_%E7%A8%8B%E5%BC%8F%E7%A2%BC)
   
   * 創新產業：量化投資
 
@@ -22,6 +22,8 @@
     創新功能：量化交易、投資管理
 
     創新項目：金融視覺化、投資策略
+   
+  * 運行程式碼請執行Main.py檔，以及更改local路徑即可
   
 ## Week 1
 ***
