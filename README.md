@@ -9,13 +9,13 @@
 ## 個人專題報告：Python金融視覺化----圖像辨識
 ***
 
-  ` 影片連結：https://www.youtube.com/watch?fbclid=IwAR1ypo-jzthANxhnwN4w2s3mjHJY3LFZp6SwqCKj3OUZW3kaE-2VxnGWiRI&v=MrM8e8lCPwU&feature=youtu.be`
+  * 影片連結：https://www.youtube.com/watch?fbclid=IwAR1ypo-jzthANxhnwN4w2s3mjHJY3LFZp6SwqCKj3OUZW3kaE-2VxnGWiRI&v=MrM8e8lCPwU&feature=youtu.be
   
     個人專題報告：[檔案](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0.pdf)
     
     程式碼：[檔案](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0.pdf)
   
-  ` 創新產業：量化投資`
+  * 創新產業：量化投資
 
     創新主題：Python金融視覺化----圖像辨識
 
