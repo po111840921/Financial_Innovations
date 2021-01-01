@@ -9,7 +9,10 @@
 ## 個人專題報告：Python金融視覺化----圖像辨識
 ***
 影片連結：https://www.youtube.com/watch?fbclid=IwAR1ypo-jzthANxhnwN4w2s3mjHJY3LFZp6SwqCKj3OUZW3kaE-2VxnGWiRI&v=MrM8e8lCPwU&feature=youtu.be
-[報告ppt](https://docs.google.com/presentation/d/e/2PACX-1vTAQ0ns9cSIGCE4Ypfysfb0hEMVPQZmEzAgJWAyAzpU3xwQTzC5hwuVR2O4SXUHOIdjfWfe7qQTyINl/pub?start=false&loop=false&delayms=3000&slide=id.g80f1c32468_0_6)
+
+[報告ppt](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0.pdf)
+
+[程式碼](https://github.com/po111840921/Financial_Innovations/blob/master/%E5%80%8B%E4%BA%BA%E5%B0%88%E9%A1%8C%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A_R09723057_%E8%94%A1%E6%98%93%E8%BE%B0.pdf)
 
 
 ## Week 1
